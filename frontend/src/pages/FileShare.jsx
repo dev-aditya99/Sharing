@@ -83,7 +83,7 @@ function FileShare() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100 p-6">
       <div className="w-full max-w-xl bg-white shadow-lg rounded-2xl p-6">
-
+      <img src="https://res.cloudinary.com/duvnw53vd/image/upload/v1758568126/share_objwxk.png  " alt="logo405" className="w-[101px] m-auto" />
         <h1 className="text-2xl font-bold text-center text-indigo-600 mb-4">
           Real-Time File Sharing (Room: {roomId})
         </h1>
